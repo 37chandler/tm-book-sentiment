@@ -14,3 +14,6 @@ paper, which you read this week, posit six main plots:
 
 In this notebook we'll pick a book or set of books from NLTK and do this. 
 (Note that NLTK, by providing digitized copies of many books, has saved us a _lot_ of effort here.) 
+
+I'm also including a notebook on using Naive Bayes for Sentiment Analysis. It doesn't have
+any thing to do with the book sentiment, but it's a cool thing to check out. 
